@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=DanielEstrada971102" alt="DanielEstrada971102" /> 
 <h1 align="center"> Hi 👋, I am Daniel! </h1>
 I am a curious physicist 🤓 with interests in programming, electronics, applied physics, and solving problems using cutting-edge technology and tools.
 
