@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=DanielEstrada971102" alt="DanielEstrada971102" /> 
 <h1 align="center"> Hi 👋, I am Daniel! </h1>
-I am a curious physicist 🤓 with interests in programming, electronics, applied physics, and solving problems using cutting-edge technology and tools.
+I am a curious physicist 🤓 with interests in programming, electronics, applied physics, and problem solutions using cutting-edge technology and tools.
 
 
 - 📝 My <a href = "https://www.canva.com/design/DAFuKTLop_U/4V7vZjkSNDwfNniY27_kpg/view?utm_content=DAFuKTLop_U&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a> as of January 2024.
