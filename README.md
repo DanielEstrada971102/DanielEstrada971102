@@ -3,8 +3,8 @@
 I am a curious physicist 🤓 with interests in programming, electronics, applied physics, and problem solutions using cutting-edge technology and tools.
 
 
-- 📝 My <a href = "https://www.canva.com/design/DAFuKTLop_U/4V7vZjkSNDwfNniY27_kpg/view?utm_content=DAFuKTLop_U&utm_campaign=designshare&utm_medium=link&utm_source=editor">Resume</a> as of January 2024.
-- 📝 My research profile - <a href = "CvLAC</a>https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001812221">CvLAC</a>
+- 📝 My [Resume](https://www.canva.com/design/DAFuKTLop_U/4V7vZjkSNDwfNniY27_kpg/view?utm_content=DAFuKTLop_U&utm_campaign=designshare&utm_medium=link&utm_source=editor) as of January 2024.
+- 📝 My research profile - [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001812221)
 - 🔭 I’m currently working on ![Arduino](https://img.shields.io/static/v1?&message=Arduino&color=00878F&logo=Arduino&logoColor=FFFFFF&label=) and ![LabVIEW](https://img.shields.io/static/v1?&message=LabVIEW&color=222222&logo=LabVIEW&logoColor=FFDB00&label=)
 - 🌱 I’m currently learning ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black) and ![HTML5](https://img.shields.io/static/v1?&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=) for IOT applications
 - 📫 How to reach me: **danielestrada971102@gmail.com**
